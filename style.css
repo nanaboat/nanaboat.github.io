@@ -11,7 +11,7 @@ body {
 
 h1, h2 {
   font-family: 'Baloo', cursive;
-  color: #D90429;
+  color: #D77A61;
 }
 
 @media screen and (min-width: 375px) {
@@ -90,6 +90,6 @@ li {
 
 .link {
   cursor: pointer;
-  color: #039be5;
+  color: #5398BE;
   font-weight: bold;
 }
